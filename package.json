@@ -1,0 +1,29 @@
+{
+  "name": "2fasecret",
+  "version": "1.0.0",
+  "description": "This is a tool used to unlock the secret during 2fa verification without installing additional applications",
+  "keywords": [
+    "2Fa",
+    "Key",
+    "Opened",
+    "NodejsTools"
+  ],
+  "homepage": "https://github.com/NekomonHub/2fasecret#readme",
+  "bugs": {
+    "url": "https://github.com/NekomonHub/2fasecret/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NekomonHub/2fasecret.git"
+  },
+  "license": "MIT",
+  "author": "NekomonHub",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
